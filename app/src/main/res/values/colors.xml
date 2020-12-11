@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CA03FC</color>
+    <color name="colorPrimaryDark">#A500CE</color>
+    <color name="colorAccent">#ffff</color>
+
+    <color name="white">#fff</color>
+    <color name="purple_grey">#D1C4E9</color>
+    <color name="purple">#A500CE</color>
+    <color name="white_gray">#E3E0E0</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873276576966",
+    "firebase_url": "https://beoptimist-9cc4c.firebaseio.com",
+    "project_id": "beoptimist-9cc4c",
+    "storage_bucket": "beoptimist-9cc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873276576966:android:3e374e1d30ace09587b3c7",
+        "android_client_info": {
+          "package_name": "com.optibe.android.beoptimist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873276576966-mvo04eknbcjhd06f97cfr7a0iob8rqgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optibe.android.beoptimist",
+            "certificate_hash": "64994c8c840459410b60b4a0a6a76596dfbb37b1"
+          }
+        },
+        {
+          "client_id": "873276576966-ajtk7eb11gbkkld0jte31t5ucup5dfdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7Ppsr5yNrnC-tLsdGFXzi-0XFUe62s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873276576966-ajtk7eb11gbkkld0jte31t5ucup5dfdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
